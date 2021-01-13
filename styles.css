@@ -1,7 +1,7 @@
 
-   .style-me{
-       background-color: seagreen;
-   }
+  
+   
+   
 
 .stats {
     display: flex;
@@ -14,13 +14,18 @@
     flex-direction: column;
     align-items: center;
     color: red;
+    font-size:5rem;
   }
 
   .Team{
       color: rgb(40, 12, 141);
-      text-size-adjust: 5rem;
+      text-size-adjust: 3rem;
   }
-  .Game  logo{
-    height: 5px;
-    width: 5px;
+  .Game img{
+    height: 200px;
+    width: 200px;
+  }
+
+  .button shoot{
+    color:chartreuse;
   }
